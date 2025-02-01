@@ -1,0 +1,109 @@
+body {
+      background-color: black;
+      font-family: arial;
+      align-items: center;
+      justify-content: center;
+      display: flex;
+      height: 130vh;
+      background: linear-gradient(#FFFFFF,#000000);
+      
+      
+    }
+    
+    .header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .form-group {
+      margin-bottom: 20px;
+    }
+    img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      margin-bottom: 10px;
+ 
+    }
+    input {
+      width: 50%;
+      padding: 7px;
+      background-color: #D9D9D9;
+      border: 1px darkgrey;
+      border-radius: 10px;
+      
+      
+    }
+    button {
+      width: 15%;
+      padding: 5px;
+      background-color: black;
+      color: white;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+    
+    }
+    h6 {
+      text-align: center;
+    }
+    input:focus {
+      background-color: grey;
+    }
+    a {
+      text-decoration: none;
+      color: black;
+      text-shadow: 2px 2px 14px black;
+      font-style: italic;
+      
+    }
+    h2 {
+      font-size: 30px;
+    }
+    .button1 {
+      width: 37%;
+      padding: 6px;
+      background-color: ;
+      color: white;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+    .container {
+      max-width: 395px;
+      margin: 0 auto;
+      padding: 20px;
+      background: linear-gradient(#6E6E6E,#C9C9C9);
+      border-radius: 30px;
+      box-shadow: 5px 5px 20px black;
+    }
+    footer {
+      text-align: center;
+      font-size: 10px;
+    }
+    h1 {
+      text-shadow: 2px 2px 5px black;
+      color: black;
+    }
+   h2 {
+     color: black;
+     text-shadow: 2px 2px 3px black;
+   }
+   p {
+     color: black;
+     text-shadow: 1px 1px 1px black;
+   }
+   ul {
+     color: black;
+     text-shadow: 1px 1px 1px black;
+     font-style: italic;
+   }
+   h6 {
+     color: black;
+   }
+   h4  {
+     color: black;
+   }
+   img {
+     box-shadow: 3px 3px 20px black;
+   }
+  
